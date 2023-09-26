@@ -6,7 +6,7 @@ import pandas as pd
 import re
 
 from sqlalchemy import create_engine
-#from postgres_credentials import dbnametwitter, usertwitter, passwordtwitter, hosttwitter, porttwitter
+from postgres_credentials import dbnametwitter, usertwitter, passwordtwitter, hosttwitter, porttwitter
 
 from tqdm import tqdm
 
