@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 30 15:38:47 2020
 
-@author: 33678
-"""
 from transformers import (TFBertForSequenceClassification,
                           BertTokenizer)
 import pandas as pd
